@@ -108,7 +108,7 @@ export default {
     height: 100vh;
   }
   div.order-book-table {
-    width: 260px;
+    width: 100%;
     height: calc(100vh - 67.5px);
     overflow: scroll;
     background-color: #15181F;
