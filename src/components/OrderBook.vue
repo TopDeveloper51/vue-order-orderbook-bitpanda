@@ -1,5 +1,5 @@
 <template>
-  <div class="order-container">
+  <div class="order-book-container">
     <div class="d-flex align-items-center title-bar">
       <div class="ml-2 title">ORDER BOOK</div>
     </div>
@@ -103,7 +103,7 @@ export default {
     height: 48px;
     background-color: #0F1217;
   }
-  div.order-container {
+  div.order-book-container {
     width: 260px;
     height: 100vh;
   }
